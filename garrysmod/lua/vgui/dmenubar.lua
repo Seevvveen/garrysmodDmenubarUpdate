@@ -67,7 +67,7 @@ function PANEL:AddMenu( label )
 		b:DoClick()
 	end
 
-	return m
+	return m, b
 
 end
 
